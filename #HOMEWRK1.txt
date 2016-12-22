@@ -1,0 +1,17 @@
+1. What is version control system?
+A. Version control system is also known as revision control  is a part of software configuration management. It manages changes to a software source code. Usually a source code can modified many times. Each time when the code is modified it is stored using version control tool. The version control tool stores the changed source code by marking initial file as “Revision 1”. When the code is modified and stored again it is stored as “Revision 2”. And the revised files number will be incremented by 1 whenever the code is updated.
+2,3. What is a repository?
+A. A repository is a place where group of people of a single project can share their files with each other inorder to work together accordingly. For example, a software project will be having different phases to implement. A group of people from different location work together on a single project. The work done by one person can be updated into repository so that others can use it.
+4. What is GIT?
+A. GIT is a kind of Version Control System(VCS) in which the GITHUB is implemented i.e, GIT is the place where repositories are maintained. Also we can modify the codes in repositories using GIT.
+5. What is GITHUB?
+A. This is a kind of remote repository i.e, GITHUB is not present in the local machine. In other words, GITHUB is a storage location where the code is stored and we can extract the needed data which is stored by other people.
+6. Differences between GIT and GITHUB?
+A. GIT is a platform where GITHUB is implemented i.e, GITHUB is a repository and GIT is the platform where GITHUB is implemented.
+7. What is Pull, Push, Commit?
+A. Pull this command is used to extract the information from repository(GITHUB).
+     Push this command is used to store the data in the repository(GITHUB).
+     Commit this command helps to record the present session.
+8. What are merge conflicts?
+A. These may occur if competing changes are made to same line of a code by different people at a time.
+ 

@@ -1,0 +1,28 @@
+1. How to resolve merge conflicts?
+A. We have to remove the braces,numbers and HEAD and then push into the repository in the similar way that we have done in the class.
+
+2. What is HTML? How to create HTML document?
+A. HTML--> HyperText Markup Language is a standard markup language which is used to web applications and web pages. Also used to embed the programs in scripting languages such as JavaScript. HTML describes the structure of a web page i.e, it describes how the page is appeared. The HTML document consists of a header, title of the document and contains the body of the document.
+        To create a HTML document firstly we have to open the notepad and give the following code ,
+          <html>
+          <head>
+          <title>
+          some random title
+          </title>
+          </head> 
+          <body>
+          <font color="color">
+          <h1><b><i>
+          sentence      (h1,b,i are used to insert sentence,bold letters and itallic letters)
+          </h1></b></i>
+          </body>
+          </html>
+
+3. What is a doctype?
+A. A doctype defines the version of the html being used.
+
+4. What are tags and elements in a HTML?
+A. Elements are usually known as bilding blocks of HTML. An element contains a start tag and and end tag. For example, considering Question no.2, <h1<b><i> sentence </h1></b></i>  is an element. Tags are used to represent the elements of html. <body> is tag.
+
+5. What are attributes?
+A. Attributes are specified in the start tag which provides some additional information about an element.         

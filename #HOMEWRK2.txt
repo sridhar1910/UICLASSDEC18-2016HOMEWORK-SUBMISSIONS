@@ -1,0 +1,31 @@
+1.	Cloning repo procedure:-
+a)	First we have to open the directory which we want to clone.
+b)	Click on clone or download button and copy the http link.
+c)	Now we should open GIT and go-to the directory where we want to keep our repo.
+Use git clone https://github.com/karthikkrishna611/UIClassDecember-18-2016.git and now the clone is created.
+
+2.	Steps to create a new repo:-
+a)	Open github and click on + and select New Repository.
+b)	Give a name and initialize with ReadMe. Now, click on create repository.
+
+3.a) clone      this is used to download a repository into a new directory 
+  b)init         used to initialize a new repository or recall the existing repository
+  c) add        used to add if any additional contents to the index
+  d) mv         used to move a file from one dirctory to other. We can also rename the file using mv.
+  e) reset      used to reset the current HEAD to a specified state
+  f) rm         used to remove the files in the directory
+  g) bisect     Use binary search to find the commit that introduced a bug
+  h) grep       Prints the lines that matches a suitable pattern
+  i) log        Show commit logs
+  j) show       Show various types of objects
+  k) status     Show the working tree status
+  l) branch     List, create, or delete branches
+  m) checkout   Switch branches or restore working tree files
+  n) commit     Record changes to the repository or takes a snapshot of the present state
+  o) diff       Show changes between commits, commit and working tree, etc
+  p) merge      Join two or more development histories together
+  q) rebase     Forward-port local commits to the updated upstream head
+  r) tag        Create, list, delete or verify a tag object signed with GPG
+  s) fetch      used to download objects from another repository
+  t) pull       used to fetch the data from the repository
+  u) push       used to update the data in the repository
