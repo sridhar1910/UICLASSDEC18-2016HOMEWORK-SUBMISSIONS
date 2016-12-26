@@ -25,4 +25,19 @@ A. A doctype defines the version of the html being used.
 A. Elements are usually known as bilding blocks of HTML. An element contains a start tag and and end tag. For example, considering Question no.2, <h1<b><i> sentence </h1></b></i>  is an element. Tags are used to represent the elements of html. <body> is tag.
 
 5. What are attributes?
-A. Attributes are specified in the start tag which provides some additional information about an element.         
+A. Attributes are specified in the start tag which provides some additional information about an element.   
+
+6. Creating HTML file:-
+    <html>
+<head>
+<title>
+the one
+</title>
+</head>
+<body>
+<font color="grey">
+<h1><b><i>
+my first html document
+</h1></b></i>
+</body>
+</html>      

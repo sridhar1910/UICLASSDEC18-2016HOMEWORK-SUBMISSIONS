@@ -1,0 +1,31 @@
+1. How to create a list in html? Orderlist & Unorderlists?
+A. We can create a list by using <li> tag in html and we can differ orderlists and unorderlists by using <ol> tag for orderlists and <ul> tag for the unorderlists as used in the code "index.html".
+
+2. How to include images in html?
+A. We use <img> tag to include images in html. I have used the following image in my code
+<img src="example.jpg" alt="html">  here src defines the location of the image and alt attribute gives the alternate value for the image which is used in some cases where image cannot be displayed. Width and height attributes are used to determine the size of the image.
+
+3. How to take user input in html?
+A. <form> tag is used to take the user input in html as referred in form.html
+
+4. How to have links in different webpages & link to different part of the webpage?
+A. Links to different webpages can be given using anchor <a> tag with attributes href which defines either the url for different webpage or a filepath that opens up in the same page. If you want to have a link to different part of same webpage,in href attribute specify the id of the part of the webpage you want to refer.
+
+5. What is head,body,html element?
+A. The head element contains meta information about the document. The body defines how the page has to be displayed. Elements are used to give the content of the body.
+
+6. What are semantic elements,describe about each one of them?
+A. Semantic elements are those elements which have meaningful description for the content. Some of the semantic elements are:-
+<article> --> Defines an article
+<aside> -->	Defines content aside from the page content
+<details>-->Defines additional details that the user can view or hide
+<figcaption>-->	Defines a caption for a <figure> element
+<figure>-->	Specifies self-contained content, like illustrations, diagrams, photos, code listings, etc.
+<footer>-->	Defines a footer for a document or section
+<header>-->	Specifies a header for a document or section
+<main>	-->Specifies the main content of a document
+<mark>-->	Defines marked/highlighted text
+<nav>	-->Defines navigation links
+<section>-->	Defines a section in a document
+<summary>-->	Defines a visible heading for a <details> element
+<time>	-->Defines a date/time
